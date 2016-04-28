@@ -3,7 +3,7 @@
 //  cluster alg
 //
 //  Created by Gleb on 4/26/16.
-//  Copyright © 2016 ITCraft. All rights reserved.
+//  Copyright © 2016 . All rights reserved.
 //
 
 import UIKit
